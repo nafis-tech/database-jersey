@@ -1,12 +1,13 @@
 {
   "name": "database",
   "version": "1.0.0",
-  "description": "jsersey-edo",
-  "main": "index.js",
+  "description": "cofee-jehan",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "edo afrian",
+  "author": "jehan",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
